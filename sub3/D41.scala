@@ -1,0 +1,2 @@
+package d
+class D41(x1: a.A41,x2: b.B41,x3: c.C41)

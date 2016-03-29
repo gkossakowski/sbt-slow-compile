@@ -1,0 +1,2 @@
+package e
+class E354(x1: a.A354,x2: b.B354,x3: c.C354,x4: d.D354)

@@ -1,0 +1,2 @@
+package e
+class E855(x1: a.A855,x2: b.B855,x3: c.C855,x4: d.D855)

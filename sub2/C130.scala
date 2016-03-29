@@ -1,0 +1,2 @@
+package c
+class C130(x1: a.A130,x2: b.B130)

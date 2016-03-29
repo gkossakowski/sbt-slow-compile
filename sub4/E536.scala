@@ -1,0 +1,2 @@
+package e
+class E536(x1: a.A536,x2: b.B536,x3: c.C536,x4: d.D536)
